@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Fazer Git Clone do repositório :
 ```bash
-https://github.com/gbrlbarreto/LoginAVATI
+git clone https://github.com/gbrlbarreto/LoginAVATI.git
 ```
 
 2. Abrir página (HTML):
